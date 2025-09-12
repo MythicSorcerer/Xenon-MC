@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "-----"
+ps aux | grep java | grep -v grep
+echo "-----"
+
+echo ""
+echo "Make sure to stop systemctl"
+echo "Then, use 'sudo kill <PID>' to kill whatever is still here" 
+echo "PID is the first number in each line"
+echo ""
+echo "if you see nothing between the lines, just start the server"
+echo "everything is working fine"

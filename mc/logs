@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n 300 -F /opt/minecraft/server/logs/latest.log

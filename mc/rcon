@@ -1,0 +1,2 @@
+#!/bin/bash
+mcrcon -H localhost -P 25575 -p "sagdab-ciNvis-4sewba"
