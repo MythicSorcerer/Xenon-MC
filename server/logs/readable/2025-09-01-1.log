@@ -1,0 +1,4 @@
+[10:31:32] [Server thread/INFO]: MCScans (/45.148.10.134:38138) lost connection: Disconnected
+[13:57:26] [User Authenticator #6/INFO]: Disconnecting SAFE_BOT (/188.90.33.81:64510): Failed to verify username!
+[13:57:26] [User Authenticator #6/ERROR]: Username 'SAFE_BOT' tried to join with an invalid session
+[13:57:26] [Server thread/INFO]: SAFE_BOT (/188.90.33.81:64510) lost connection: Failed to verify username!

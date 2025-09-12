@@ -1,0 +1,21 @@
+[04:30:48] [Server thread/INFO]: MCScans (/45.148.10.134:39046) lost connection: Disconnected
+[10:31:14] [RCON Listener #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[10:31:20] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[10:31:24] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[10:31:26] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[10:31:29] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[10:41:02] [User Authenticator #5/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[10:41:03] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:61120] logged in with entity id 2248 at (-402.78158997945934, 66.9853873131668, -434.6837271256593)
+[10:41:03] [Server thread/INFO]: MythicSorcerer joined the game
+[10:41:08] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[10:41:08] [Server thread/INFO]: MythicSorcerer left the game
+[10:41:17] [User Authenticator #6/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[10:41:18] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:17784] logged in with entity id 2367 at (-402.52683894958506, 66.9853873131668, -424.0862245050983)
+[10:41:18] [Server thread/INFO]: MythicSorcerer joined the game
+[10:41:24] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[10:42:23] [Server thread/INFO]: [MythicSorcerer: Gamerule keepInventory is now set to: true]
+[10:42:30] [Server thread/INFO]: MythicSorcerer was killed
+[10:42:30] [Server thread/INFO]: [MythicSorcerer: Killed MythicSorcerer]
+[10:44:18] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[10:44:18] [Server thread/INFO]: MythicSorcerer left the game
+[10:45:18] [Server thread/INFO]: Server empty for 60 seconds, pausing

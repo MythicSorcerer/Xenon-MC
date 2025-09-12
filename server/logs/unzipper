@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Set the target directory
+TARGET_DIR="readable"
+
+# Ensure the target directory exists
+if [ ! -d "$TARGET_DIR" ]; then
+    echo "Directory '$TARGET_DIR' does not exist. Exiting."
+    exit 1
+fi
+
+# Clear the target directory
+rm -f "$TARGET_DIR"/*.log
+
+# Process all .log.gz files
+for gz_file in *.log.gz; do
+    # Extract base filename (remove .gz)
+    base_name=$(basename "$gz_file" .gz)
+    # Unzip and output to the target directory
+    gunzip -c "$gz_file" > "$TARGET_DIR/$base_name"
+done
+
+echo "All files unzipped to '$TARGET_DIR'."
+

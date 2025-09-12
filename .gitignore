@@ -1,0 +1,22 @@
+# Cache and temp files
+.cache/
+.histfile
+.viminfo
+
+# Runtime/lock files
+*.lck
+*.tmp
+*.pid
+
+# Backups folder (these can be huge)
+backups/
+
+# User session data (regenerated and changes frequently)
+usercache.json
+usernamecache.json
+
+# Optional: Exclude these user management files if you don't want them tracked
+# banned-ips.json
+# banned-players.json
+# whitelist.json
+# ops.json

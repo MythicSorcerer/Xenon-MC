@@ -1,0 +1,173 @@
+[02:37:50] [User Authenticator #3/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[02:37:50] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:56202] logged in with entity id 8965 at (-298.84527022040726, 59.39239441203313, -414.03205403380775)
+[02:37:50] [Server thread/INFO]: MythicSorcerer joined the game
+[02:37:58] [Server thread/INFO]: MythicSorcerer was killed
+[02:37:58] [Server thread/INFO]: [MythicSorcerer: Killed MythicSorcerer]
+[02:38:04] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[02:38:06] [Server thread/INFO]: [MythicSorcerer: Removed 588 item(s) from player MythicSorcerer]
+[02:38:09] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Creative Mode]
+[02:38:12] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Leather Tunic] to MythicSorcerer]
+[02:38:23] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Leather Tunic] to MythicSorcerer]
+[02:38:43] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Leather Pants] to MythicSorcerer]
+[02:39:02] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Leather Pants] to MythicSorcerer]
+[02:39:38] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Leather Tunic] to MythicSorcerer]
+[02:42:38] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[02:42:38] [Server thread/INFO]: MythicSorcerer left the game
+[02:43:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:55:08] [User Authenticator #4/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[02:55:09] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:56309] logged in with entity id 9798 at (-309.14064529781473, 105.0, -477.69999998807907)
+[02:55:09] [Server thread/INFO]: MythicSorcerer joined the game
+[02:55:15] [Server thread/INFO]: MythicSorcerer was killed
+[02:55:15] [Server thread/INFO]: [MythicSorcerer: Killed MythicSorcerer]
+[02:56:13] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Gray Banner] to MythicSorcerer]
+[02:56:35] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Black Banner] to MythicSorcerer]
+[02:56:51] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Black Banner] to MythicSorcerer]
+[02:57:02] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Black Banner] to MythicSorcerer]
+[02:57:14] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Black Banner] to MythicSorcerer]
+[02:57:27] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Black Banner] to MythicSorcerer]
+[02:58:11] [Server thread/INFO]: [MythicSorcerer: Set the time to 13000]
+[03:00:11] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[03:01:40] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Red Banner] to MythicSorcerer]
+[03:02:13] [Server thread/INFO]: [MythicSorcerer: Changed the block at -377, 173, -422]
+[03:04:14] [Server thread/INFO]: MythicSorcerer has made the advancement [Glow and Behold!]
+[03:04:48] [Server thread/INFO]: [MythicSorcerer: Set the world spawn point to -377, 174, -422 [0.0]]
+[03:04:56] [Server thread/INFO]: [MythicSorcerer: Gamerule spawnRadius is now set to: 1]
+[03:05:00] [Server thread/INFO]: MythicSorcerer was killed
+[03:05:00] [Server thread/INFO]: [MythicSorcerer: Killed MythicSorcerer]
+[03:05:04] [Server thread/INFO]: MythicSorcerer was killed
+[03:05:04] [Server thread/INFO]: [MythicSorcerer: Killed MythicSorcerer]
+[03:10:29] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[03:10:32] [Server thread/INFO]: [MythicSorcerer: Set the weather to clear]
+[03:17:44] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/15990, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:47] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/15996, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:50] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16001, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:50] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16002, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:51] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16004, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:51] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16005, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:51] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16006, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:51] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16007, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:52] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16009, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:52] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16010, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:52] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16011, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:52] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16012, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:53] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16013, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:53] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16014, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:17:53] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1613['[Mythic Guard]'/16016, l='ServerLevel[world]', x=-391.50, y=156.00, z=-458.50]: Failed to decode value '{chest:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_chestplate"},feet:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_boots"},head:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_helmet"},legs:{components:{unbreakable:{}},count:1,id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"},offhand:{components:{max_stack_size:16},count:16,id:"minecraft:totem_of_undying"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels missed input: {levels:{flame:1,infinity:1,power:255}} missed input: {enchantments:{levels:{flame:1,infinity:1,power:255}}} missed input: {mainhand:{components:{custom_name:'["",{"text":"Justice","italic":false,"color":"yellow"}]',enchantments:{levels:{flame:1,infinity:1,power:255}},unbreakable:{}},count:1,id:"minecraft:bow"}}
+[03:18:39] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Survival Mode]
+[03:18:57] [Server thread/INFO]: MythicSorcerer was shot by [Mythic Guard] using [["",{"text":"Justice","italic":false,"color":"yellow"}]]
+[03:19:06] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Creative Mode]
+[03:20:03] [Server thread/INFO]: MythicSorcerer has made the advancement [Ol' Betsy]
+[03:21:50] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:21:59] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[03:22:19] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Arrow?] to MythicSorcerer]
+[03:22:50] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Arrow?] to MythicSorcerer]
+[03:23:28] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Arrow?] to MythicSorcerer]
+[03:23:56] [Server thread/INFO]: [MythicSorcerer: Teleported 32 entities to -378.439061, 187.735270, -408.759576]
+[03:24:26] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:26] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:24:28] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:28] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:24:30] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:30] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:24:31] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:31] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:24:42] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,10.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:42] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:24:51] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:24:51] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:25:00] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[1.0d,1.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:25:00] [Server thread/INFO]: [MythicSorcerer: Summoned new Arrow]
+[03:25:31] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:25:31] [Server thread/INFO]: [MythicSorcerer: Summoned new Fireball]
+[03:25:44] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:25:44] [Server thread/INFO]: [MythicSorcerer: Summoned new Fireball]
+[03:25:49] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:25:49] [Server thread/INFO]: [MythicSorcerer: Summoned new Fireball]
+[03:26:08] [Server thread/INFO]: [MythicSorcerer: Killed 30 entities]
+[03:26:24] [Server thread/WARN]: [net.minecraft.class_1299] Serialization errors:
+: Failed to decode value '[0.0d,1000.0d]' from field 'Motion': Input is not a list of 3 elements
+[03:26:24] [Server thread/INFO]: [MythicSorcerer: Summoned new Wind Charge]
+[03:26:40] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[03:26:40] [Server thread/INFO]: MythicSorcerer left the game
+[03:27:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:47:18] [User Authenticator #5/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[03:47:19] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:56400] logged in with entity id 17864 at (-403.1893016570687, 196.63923878558444, -411.9866677011192)
+[03:47:19] [Server thread/INFO]: MythicSorcerer joined the game
+[03:48:42] [Server thread/INFO]: [STDERR]: java.lang.NumberFormatException: For input string: "0.0"
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:588)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:685)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//systems.brn.servershop.screens.ShopPriceSetScreen.onClose(ShopPriceSetScreen.java:45)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//eu.pb4.sgui.api.gui.SimpleGui.close(SimpleGui.java:249)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3244.handler$bck000$sgui$executeClosing(class_3244.java:7421)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3244.method_12054(class_3244.java:1904)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2815.method_12198(class_2815.java:32)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2815.method_65081(class_2815.java:8)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2600.method_11072(class_2600.java:27)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3738.run(class_3738.java:18)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_18859(class_1255.java:164)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_16075(class_1255.java:138)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_18857(class_1255.java:147)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291)
+[03:48:42] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1575)
+[03:49:20] [Server thread/INFO]: [STDERR]: java.lang.NumberFormatException: For input string: "1.11"
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:588)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:685)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//systems.brn.servershop.screens.ShopPriceSetScreen.onClose(ShopPriceSetScreen.java:45)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//eu.pb4.sgui.api.gui.SimpleGui.close(SimpleGui.java:249)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3244.handler$bck000$sgui$executeClosing(class_3244.java:7421)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3244.method_12054(class_3244.java:1904)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2815.method_12198(class_2815.java:32)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2815.method_65081(class_2815.java:8)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_2600.method_11072(class_2600.java:27)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_3738.run(class_3738.java:18)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_18859(class_1255.java:164)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_16075(class_1255.java:138)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_1255.method_5383(class_1255.java:123)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291)
+[03:49:20] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1575)
+[03:51:19] [Server thread/INFO]: MythicSorcerer lost connection: Timed out
+[03:51:19] [Server thread/INFO]: MythicSorcerer left the game
+[03:51:19] [Server thread/WARN]: handleDisconnection() called twice
+[03:52:19] [Server thread/INFO]: Server empty for 60 seconds, pausing

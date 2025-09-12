@@ -1,0 +1,7 @@
+[04:33:32] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[05:08:27] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[07:22:34] [Server thread/INFO]: MCScans (/45.148.10.134:48864) lost connection: Disconnected
+[10:38:34] [User Authenticator #4/INFO]: Disconnecting SAFE_BOT (/188.90.33.81:64381): Failed to verify username!
+[10:38:34] [User Authenticator #4/ERROR]: Username 'SAFE_BOT' tried to join with an invalid session
+[10:38:34] [Server thread/INFO]: SAFE_BOT (/188.90.33.81:64381) lost connection: Failed to verify username!
+[15:49:04] [User Authenticator #5/INFO]: UUID of player iTz_unLucky is 749729af-7792-4624-ba93-65b92370698a

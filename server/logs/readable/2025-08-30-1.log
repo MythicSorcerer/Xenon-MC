@@ -1,0 +1,9 @@
+[00:20:47] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[01:41:24] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[02:08:20] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[02:44:10] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[09:19:05] [Server thread/INFO]: /176.65.148.103:64898 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[11:45:00] [User Authenticator #3/INFO]: Disconnecting grief-protection (/188.90.33.81:63178): Failed to verify username!
+[11:45:00] [User Authenticator #3/ERROR]: Username 'grief-protection' tried to join with an invalid session
+[11:45:00] [Server thread/INFO]: grief-protection (/188.90.33.81:63178) lost connection: Failed to verify username!
+[13:56:04] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down

@@ -1,0 +1,6 @@
+[01:45:12] [User Authenticator #7/INFO]: Disconnecting SAFE_BOT (/188.90.33.81:50681): Failed to verify username!
+[01:45:12] [User Authenticator #7/ERROR]: Username 'SAFE_BOT' tried to join with an invalid session
+[01:45:12] [Server thread/INFO]: SAFE_BOT (/188.90.33.81:50681) lost connection: Failed to verify username!
+[05:28:02] [User Authenticator #8/INFO]: Disconnecting SAFE_BOT (/188.90.33.81:56687): Failed to verify username!
+[05:28:02] [User Authenticator #8/ERROR]: Username 'SAFE_BOT' tried to join with an invalid session
+[05:28:02] [Server thread/INFO]: SAFE_BOT (/188.90.33.81:56687) lost connection: Failed to verify username!

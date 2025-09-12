@@ -1,0 +1,223 @@
+[21:11:41] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:11:41] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[21:11:42] [main/INFO]: Loading 69 mods:
+	- banhammer 0.14.1+1.21.8
+	   |-- com_mysql_mysql-connector-j 9.3.0
+	   |-- org_postgresql_postgresql 42.7.7
+	   \-- org_xerial_sqlite-jdbc 3.50.3.0
+	- disconnect-packet-fix 2.0.0
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-essentials 1.4.4+1.21.6-rc1
+	   |-- common-protection-api 1.0.0
+	   |-- message-api 0.3.2+1.21.5
+	   \-- player-data-api 0.8.0+1.21.6
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- invview 1.4.17-1.21.6+
+	- java 23
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
+	- minecraft 1.21.8
+	- nochatreports 1.21.7-v2.14.0
+	- servershop 1.5.8
+	   |-- placeholder-api 2.7.1+1.21.6
+	   |-- polymer-autohost 0.13.7+1.21.8
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.13.7+1.21.8
+	   |-- polymer-core 0.13.7+1.21.8
+	   |    |-- polymer-networking 0.13.7+1.21.8
+	   |    |    \-- polymer-common 0.13.7+1.21.8
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.13.7+1.21.8
+	   |-- polymer-resource-pack 0.13.7+1.21.8
+	   |    \-- polymer-common 0.13.7+1.21.8
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-virtual-entity 0.13.7+1.21.8
+	   |    \-- polymer-common 0.13.7+1.21.8
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- server_translations_api 2.5.1+1.21.5
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   \-- sgui 1.10.2+1.21.8
+	- terralith 2.5.11
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+[21:11:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:11:43] [main/INFO]: Compatibility level set to JAVA_17
+[21:11:43] [main/INFO]: Compatibility level set to JAVA_21
+[21:11:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:12:06] [main/INFO]: Disconnect Packet Fix has started.
+[21:12:06] [main/INFO]: Loading essentials config
+[21:12:08] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4a6b7e2f]
+[21:12:08] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[21:12:17] [main/INFO]: Loading configuration...
+[21:12:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:12:18] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:12:18] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[21:12:18] [main/INFO]: Found new data pack fabric-essentials, loading it automatically
+[21:12:18] [main/INFO]: Found new data pack server_translations_api, loading it automatically
+[21:12:18] [main/INFO]: Found new data pack terralith, loading it automatically
+[21:12:21] [main/INFO]: No existing world data, creating new world
+[21:12:23] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[21:12:24] [main/INFO]: Loaded 1413 recipes
+[21:12:24] [main/INFO]: Loaded 1521 advancements
+[21:12:24] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 translation keys
+[21:12:25] [main/INFO]: Applied 0 biome modifications to 0 of 160 new biomes in 6.047 ms
+[21:12:25] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
+[21:12:25] [Server thread/INFO]:         __    
+[21:12:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[21:12:25] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
+[21:12:25] [Server thread/INFO]: 
+[21:12:26] [Server thread/INFO]: Loading storage provider... [H2]
+[21:12:27] [Server thread/INFO]: Loading internal permission managers...
+[21:12:27] [Server thread/INFO]: Performing initial data load...
+[21:12:27] [Server thread/INFO]: Successfully enabled. (took 1730ms)
+[21:12:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:12:27] [Server thread/INFO]: Loading properties
+[21:12:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:27] [Server thread/INFO]: Generating keypair
+[21:12:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:28] [Server thread/INFO]: Using epoll channel type
+[21:12:28] [Server thread/INFO]: Preparing level "world"
+[21:12:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:55] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:12:56] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:12:56] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:12:57] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[21:12:57] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:12:58] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[21:12:58] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:12:59] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:12:59] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:13:00] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:13:00] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:13:01] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[21:13:01] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[21:13:02] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[21:13:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:13:03] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[21:13:03] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[21:13:04] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[21:13:04] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:13:05] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[21:13:05] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[21:13:06] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[21:13:06] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:13:07] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:13:07] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[21:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:13:08] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[21:13:09] [Worker-Main-5/INFO]: Preparing spawn area: 30%
+[21:13:10] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:10] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:10] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:13:11] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[21:13:11] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:12] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[21:13:12] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[21:13:13] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[21:13:13] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:13:14] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:13:14] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:15] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:13:15] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:16] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[21:13:16] [Server thread/INFO]: Time elapsed: 20737 ms
+[21:13:16] [Server thread/INFO]: Done (48.042s)! For help, type "help"
+[21:13:16] [Server thread/INFO]: Starting remote control listener
+[21:13:16] [Server thread/INFO]: Thread RCON Listener started
+[21:13:16] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[21:13:24] [User Authenticator #1/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[21:13:26] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:55945] logged in with entity id 50 at (-299.5, 90.0, -477.5)
+[21:13:26] [Server thread/INFO]: MythicSorcerer joined the game
+[21:13:35] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[21:15:08] [Server thread/INFO]: <MythicSorcerer> Thanks rcon!
+[21:22:38] [User Authenticator #2/INFO]: UUID of player Enderman47 is 61b1b88b-fb62-48ae-bf52-6a4767c98e70
+[21:22:38] [Server thread/INFO]: Enderman47[/73.241.51.116:56222] logged in with entity id 1865 at (-297.5, 90.0, -489.5)
+[21:22:39] [Server thread/INFO]: Enderman47 joined the game
+[21:22:44] [Server thread/INFO]: [Enderman47: Set own game mode to Creative Mode]
+[21:22:55] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Creative Mode]
+[21:23:09] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Spectator Mode]
+[21:23:22] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Creative Mode]
+[21:24:28] [Server thread/WARN]: [net.minecraft.class_9279] Serialization errors:
+class_1531['AA Mythic Kit AA'/2528, l='ServerLevel[world]', x=-325.50, y=91.00, z=-515.50]: Failed to decode value '{chest:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Chestplate","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_chestplate"},feet:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Boots","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,feather_falling:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,soul_speed:5,thorns:255},show_in_tooltip:0b},glider:{},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_boots"},head:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor_toughness"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"attack_speed"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"block_break_speed"},{amount:1.0d,id:"1733257318909",operation:"add_value",slot:"head",type:"explosion_knockback_resistance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"knockback_resistance"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"luck"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"mining_efficiency"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"movement_efficiency"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"oxygen_bonus"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"safe_fall_distance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sneaking_speed"},{amount:20,id:"1733257318909",operation:"add_value",slot:"head",type:"submerged_mining_speed"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sweeping_damage_ratio"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"water_movement_efficiency"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Helmet","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{aqua_affinity:1,blast_protection:255,breach:255,fire_aspect:2,fire_protection:255,looting:255,projectile_protection:255,protection:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"flow",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_helmet"},legs:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Leggings","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_leggings"},mainhand:{components:{custom_name:'["",{"text":"Mythic Potion","italic":false,"color":"yellow"}]',enchantment_glint_override:1b,max_stack_size:16,potion_contents:{custom_color:16701501,custom_effects:[{duration:-1,id:"conduit_power",show_icon:0b,show_particles:0b},{duration:-1,id:"fire_resistance",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"regeneration",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"resistance",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"saturation",show_icon:0b,show_particles:0b},{duration:-1,id:"luck",show_icon:0b,show_particles:0b},{duration:-1,id:"water_breathing",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"hero_of_the_village",show_icon:0b,show_particles:0b}]}},id:"minecraft:splash_potion"},offhand:{components:{custom_name:'["",{"text":"Mythic Rocket","italic":false,"color":"yellow"}]',death_protection:{death_effects:[{effects:[{amplifier:9,duration:40,id:"absorption",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"fire_resistance",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"haste",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"hero_of_the_village",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"regeneration",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"resistance",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"saturation",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"strength",show_icon:0b,show_particles:0b},{amplifier:255,duration:-1,id:"water_breathing",show_icon:0b,show_particles:0b}],type:"apply_effects"}]},enchantment_glint_override:1b,equippable:{slot:"offhand"},fireworks:{flight_duration:127},max_stack_size:99},id:"minecraft:firework_rocket"}}' from field 'equipment': Not a number; Failed to get element minecraft:levels; Value 0 outside of range [1:255]; Failed to get element minecraft:show_in_tooltip missed input: {levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b}; Not a list: {modifiers:[{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b} missed input: {attribute_modifiers:{modifiers:[{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b}}; Not a number; Failed to get element minecraft:levels; Value 0 outside of range [1:255]; Failed to get element minecraft:show_in_tooltip missed input: {levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b}; Not a list: {modifiers:[{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b} missed input: {attribute_modifiers:{modifiers:[{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b}}; Not a number; Failed to get element minecraft:levels; Value 0 outside of range [1:255]; Failed to get element minecraft:show_in_tooltip missed input: {levels:{blast_protection:255,breach:255,density:255,feather_falling:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,soul_speed:5,thorns:255},show_in_tooltip:0b}; Not a list: {modifiers:[{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b} missed input: {attribute_modifiers:{modifiers:[{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},enchantments:{levels:{blast_protection:255,breach:255,density:255,feather_falling:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,soul_speed:5,thorns:255},show_in_tooltip:0b}}; Not a number; Failed to get element minecraft:levels; Value 0 outside of range [1:255]; Failed to get element minecraft:show_in_tooltip missed input: {levels:{aqua_affinity:1,blast_protection:255,breach:255,fire_aspect:2,fire_protection:255,looting:255,projectile_protection:255,protection:255,thorns:255},show_in_tooltip:0b}; Not a list: {modifiers:[{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor_toughness"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"attack_speed"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"block_break_speed"},{amount:1.0d,id:"1733257318909",operation:"add_value",slot:"head",type:"explosion_knockback_resistance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"knockback_resistance"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"luck"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"mining_efficiency"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"movement_efficiency"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"oxygen_bonus"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"safe_fall_distance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sneaking_speed"},{amount:20,id:"1733257318909",operation:"add_value",slot:"head",type:"submerged_mining_speed"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sweeping_damage_ratio"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"water_movement_efficiency"}],show_in_tooltip:0b} missed input: {attribute_modifiers:{modifiers:[{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor_toughness"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"attack_speed"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"block_break_speed"},{amount:1.0d,id:"1733257318909",operation:"add_value",slot:"head",type:"explosion_knockback_resistance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"knockback_resistance"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"luck"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"mining_efficiency"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"movement_efficiency"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"oxygen_bonus"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"safe_fall_distance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sneaking_speed"},{amount:20,id:"1733257318909",operation:"add_value",slot:"head",type:"submerged_mining_speed"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sweeping_damage_ratio"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"water_movement_efficiency"}],show_in_tooltip:0b},enchantments:{levels:{aqua_affinity:1,blast_protection:255,breach:255,fire_aspect:2,fire_protection:255,looting:255,projectile_protection:255,protection:255,thorns:255},show_in_tooltip:0b}} missed input: {chest:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257752069",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Chestplate","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_chestplate"},feet:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733258010473",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Boots","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,feather_falling:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,soul_speed:5,thorns:255},show_in_tooltip:0b},glider:{},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_boots"},head:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"armor_toughness"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"attack_speed"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"block_break_speed"},{amount:1.0d,id:"1733257318909",operation:"add_value",slot:"head",type:"explosion_knockback_resistance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"knockback_resistance"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"luck"},{amount:1000,id:"1733257318909",operation:"add_value",slot:"head",type:"mining_efficiency"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"movement_efficiency"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"oxygen_bonus"},{amount:1024,id:"1733257318909",operation:"add_value",slot:"head",type:"safe_fall_distance"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sneaking_speed"},{amount:20,id:"1733257318909",operation:"add_value",slot:"head",type:"submerged_mining_speed"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"sweeping_damage_ratio"},{amount:1,id:"1733257318909",operation:"add_value",slot:"head",type:"water_movement_efficiency"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Helmet","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{aqua_affinity:1,blast_protection:255,breach:255,fire_aspect:2,fire_protection:255,looting:255,projectile_protection:255,protection:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"flow",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_helmet"},legs:{components:{attribute_modifiers:{modifiers:[{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor"},{amount:1000,id:"1733257953379",operation:"add_value",slot:"chest",type:"armor_toughness"}],show_in_tooltip:0b},custom_name:'["",{"text":"Mythic Leggings","italic":false,"color":"yellow"}]',enchantment_glint_override:0b,enchantments:{levels:{blast_protection:255,breach:255,density:255,fire_protection:255,projectile_protection:255,protection:255,sharpness:255,thorns:255},show_in_tooltip:0b},trim:{material:"gold",pattern:"snout",show_in_tooltip:0b},unbreakable:{show_in_tooltip:0b}},id:"minecraft:netherite_leggings"}}
+[21:24:39] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[21:24:44] [Server thread/INFO]: [MythicSorcerer: Teleported MythicSorcerer to Enderman47]
+[21:25:00] [Server thread/INFO]: MythicSorcerer has completed the challenge [Cover Me in Debris]
+[21:25:33] [Server thread/INFO]: Enderman47 has completed the challenge [Cover Me in Debris]
+[21:31:20] [Server thread/INFO]: [Enderman47: Applied enchantment Loyalty I to Enderman47's item]
+[21:31:44] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Loyalty I to MythicSorcerer's item]
+[21:32:09] [Server thread/INFO]: [MythicSorcerer: Gave 1 [Trident] to MythicSorcerer]
+[21:32:18] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Loyalty III to MythicSorcerer's item]
+[21:32:23] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Unbreaking III to MythicSorcerer's item]
+[21:34:07] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Power V to MythicSorcerer's item]
+[21:34:15] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Unbreaking III to MythicSorcerer's item]
+[21:34:17] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[21:34:20] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Infinity to MythicSorcerer's item]
+[21:35:41] [Server thread/INFO]: [MythicSorcerer: Applied enchantment Wind Burst III to MythicSorcerer's item]
+[21:37:09] [Server thread/INFO]: [MythicSorcerer: Gave 4 [Totem of Undying] to Enderman47]
+[21:37:25] [Server thread/INFO]: [MythicSorcerer: Teleported Enderman47 to MythicSorcerer]
+[21:38:49] [Server thread/INFO]: [Enderman47: Set own game mode to Survival Mode]
+[21:38:56] [Server thread/INFO]: [MythicSorcerer: Gamerule keepInventory is now set to: true]
+[21:38:59] [Server thread/INFO]: [MythicSorcerer: Set own game mode to Survival Mode]
+[21:39:11] [Server thread/INFO]: Enderman47 has made the advancement [Take Aim]
+[21:39:27] [Server thread/INFO]: MythicSorcerer has made the advancement [Take Aim]
+[21:39:27] [Server thread/INFO]: Enderman47 has made the advancement [A Throwaway Joke]
+[21:39:49] [Server thread/INFO]: MythicSorcerer has made the advancement [Who Needs Rockets?]
+[21:40:22] [Server thread/INFO]: MythicSorcerer has made the advancement [A Throwaway Joke]
+[21:41:17] [Server thread/INFO]: MythicSorcerer has made the advancement [Not Today, Thank You]
+[21:44:19] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[21:45:17] [Server thread/INFO]: [Enderman47: Set own game mode to Creative Mode]
+[21:46:54] [Server thread/INFO]: MythicSorcerer was killed by magic while trying to escape Enderman47
+[21:47:08] [Server thread/INFO]: [Enderman47: Set own game mode to Survival Mode]
+[21:47:14] [Server thread/INFO]: [MythicSorcerer: Teleported Enderman47 to -310.299517, 103.000000, -468.491501]
+[21:47:43] [Server thread/INFO]: [MythicSorcerer: Gave 644 [Wind Charge] to MythicSorcerer]
+[21:47:45] [Server thread/INFO]: MythicSorcerer has reached the goal [Postmortal]
+[21:47:48] [Server thread/INFO]: MythicSorcerer was killed by magic while trying to escape Enderman47
+[21:51:09] [Server thread/INFO]: [MythicSorcerer: Gave 644 [Wind Charge] to MythicSorcerer]
+[21:54:03] [Server thread/INFO]: Enderman47 lost connection: Disconnected
+[21:54:03] [Server thread/INFO]: Enderman47 left the game
+[21:54:06] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[21:54:06] [Server thread/INFO]: MythicSorcerer left the game
+[21:55:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:30:56] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down

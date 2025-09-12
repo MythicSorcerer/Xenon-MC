@@ -1,0 +1,391 @@
+[2025-08-17 03:00:00] Starting backup process...
+[2025-08-17 03:00:00] Server is running, preparing for backup...
+[2025-08-17 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-17 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-17 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-17 03:00:06] Creating backup: minecraft_backup_20250817_030000
+tar: world/region/r.-1.-1.mca: file changed as we read it
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-17 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-17 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-17 03:00:08] Backup completed successfully: minecraft_backup_20250817_030000.tar.gz (15M)
+[2025-08-17 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-17 03:00:08] Cleanup complete. 2 backup(s) remaining.
+[2025-08-17 03:00:08] Backup process finished.
+[2025-08-18 03:00:01] Starting backup process...
+[2025-08-18 03:00:01] Server is running, preparing for backup...
+[2025-08-18 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-18 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-18 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-18 03:00:06] Creating backup: minecraft_backup_20250818_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-18 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-18 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-18 03:00:08] Backup completed successfully: minecraft_backup_20250818_030001.tar.gz (16M)
+[2025-08-18 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-18 03:00:08] Cleanup complete. 3 backup(s) remaining.
+[2025-08-18 03:00:08] Backup process finished.
+[2025-08-19 03:00:01] Starting backup process...
+[2025-08-19 03:00:01] Server is running, preparing for backup...
+[2025-08-19 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-19 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-19 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-19 03:00:06] Creating backup: minecraft_backup_20250819_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-19 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-19 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-19 03:00:08] Backup completed successfully: minecraft_backup_20250819_030001.tar.gz (16M)
+[2025-08-19 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-19 03:00:08] Cleanup complete. 4 backup(s) remaining.
+[2025-08-19 03:00:08] Backup process finished.
+[2025-08-20 03:00:01] Starting backup process...
+[2025-08-20 03:00:01] Server is running, preparing for backup...
+[2025-08-20 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-20 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-20 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-20 03:00:06] Creating backup: minecraft_backup_20250820_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-20 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-20 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-20 03:00:08] Backup completed successfully: minecraft_backup_20250820_030001.tar.gz (16M)
+[2025-08-20 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-20 03:00:08] Cleanup complete. 5 backup(s) remaining.
+[2025-08-20 03:00:08] Backup process finished.
+[2025-08-21 03:00:01] Starting backup process...
+[2025-08-21 03:00:01] Server is running, preparing for backup...
+[2025-08-21 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-21 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-21 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-21 03:00:06] Creating backup: minecraft_backup_20250821_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-21 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-21 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-21 03:00:09] Backup completed successfully: minecraft_backup_20250821_030001.tar.gz (16M)
+[2025-08-21 03:00:09] Cleaning up backups older than 14 days...
+[2025-08-21 03:00:09] Cleanup complete. 6 backup(s) remaining.
+[2025-08-21 03:00:09] Backup process finished.
+[2025-08-22 03:00:01] Starting backup process...
+[2025-08-22 03:00:01] Server is running, preparing for backup...
+[2025-08-22 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-22 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-22 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-22 03:00:06] Creating backup: minecraft_backup_20250822_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-22 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-22 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-22 03:00:08] Backup completed successfully: minecraft_backup_20250822_030001.tar.gz (16M)
+[2025-08-22 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-22 03:00:08] Cleanup complete. 7 backup(s) remaining.
+[2025-08-22 03:00:08] Backup process finished.
+[2025-08-23 03:00:01] Starting backup process...
+[2025-08-23 03:00:01] Server is running, preparing for backup...
+[2025-08-23 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-23 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-23 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-23 03:00:06] Creating backup: minecraft_backup_20250823_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-23 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-23 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-23 03:00:08] Backup completed successfully: minecraft_backup_20250823_030001.tar.gz (17M)
+[2025-08-23 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-23 03:00:08] Cleanup complete. 8 backup(s) remaining.
+[2025-08-23 03:00:08] Backup process finished.
+[2025-08-24 03:00:01] Starting backup process...
+[2025-08-24 03:00:01] Server is running, preparing for backup...
+[2025-08-24 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-24 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-24 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-24 03:00:06] Creating backup: minecraft_backup_20250824_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-24 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-24 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-24 03:00:09] Backup completed successfully: minecraft_backup_20250824_030001.tar.gz (17M)
+[2025-08-24 03:00:09] Cleaning up backups older than 14 days...
+[2025-08-24 03:00:09] Cleanup complete. 9 backup(s) remaining.
+[2025-08-24 03:00:09] Backup process finished.
+[2025-08-25 03:00:01] Starting backup process...
+[2025-08-25 03:00:01] Server is running, preparing for backup...
+[2025-08-25 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-25 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-25 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-25 03:00:06] Creating backup: minecraft_backup_20250825_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-25 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-25 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-25 03:00:09] Backup completed successfully: minecraft_backup_20250825_030001.tar.gz (17M)
+[2025-08-25 03:00:09] Cleaning up backups older than 14 days...
+[2025-08-25 03:00:09] Cleanup complete. 10 backup(s) remaining.
+[2025-08-25 03:00:09] Backup process finished.
+[2025-08-26 03:00:01] Starting backup process...
+[2025-08-26 03:00:01] Server is running, preparing for backup...
+[2025-08-26 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-26 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-26 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-26 03:00:06] Creating backup: minecraft_backup_20250826_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-26 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-26 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-26 03:00:08] Backup completed successfully: minecraft_backup_20250826_030001.tar.gz (17M)
+[2025-08-26 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-26 03:00:08] Cleanup complete. 11 backup(s) remaining.
+[2025-08-26 03:00:08] Backup process finished.
+[2025-08-27 03:00:01] Starting backup process...
+[2025-08-27 03:00:01] Server is running, preparing for backup...
+[2025-08-27 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-27 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-27 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-27 03:00:06] Creating backup: minecraft_backup_20250827_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-27 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-27 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-27 03:00:08] Backup completed successfully: minecraft_backup_20250827_030001.tar.gz (17M)
+[2025-08-27 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-27 03:00:08] Cleanup complete. 12 backup(s) remaining.
+[2025-08-27 03:00:08] Backup process finished.
+[2025-08-28 03:00:01] Starting backup process...
+[2025-08-28 03:00:01] Server is running, preparing for backup...
+[2025-08-28 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-28 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-28 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-28 03:00:06] Creating backup: minecraft_backup_20250828_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-28 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-28 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-28 03:00:08] Backup completed successfully: minecraft_backup_20250828_030001.tar.gz (17M)
+[2025-08-28 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-28 03:00:08] Cleanup complete. 13 backup(s) remaining.
+[2025-08-28 03:00:08] Backup process finished.
+[2025-08-29 03:00:01] Starting backup process...
+[2025-08-29 03:00:01] Server is running, preparing for backup...
+[2025-08-29 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-29 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-29 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-29 03:00:06] Creating backup: minecraft_backup_20250829_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-29 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-29 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-29 03:00:09] Backup completed successfully: minecraft_backup_20250829_030001.tar.gz (17M)
+[2025-08-29 03:00:09] Cleaning up backups older than 14 days...
+[2025-08-29 03:00:09] Cleanup complete. 14 backup(s) remaining.
+[2025-08-29 03:00:09] Backup process finished.
+[2025-08-30 03:00:01] Starting backup process...
+[2025-08-30 03:00:01] Server is running, preparing for backup...
+[2025-08-30 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-30 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-30 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-30 03:00:06] Creating backup: minecraft_backup_20250830_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-30 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-30 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-30 03:00:09] Backup completed successfully: minecraft_backup_20250830_030001.tar.gz (17M)
+[2025-08-30 03:00:09] Cleaning up backups older than 14 days...
+[2025-08-30 03:00:09] Cleanup complete. 15 backup(s) remaining.
+[2025-08-30 03:00:09] Backup process finished.
+[2025-08-31 03:00:01] Starting backup process...
+[2025-08-31 03:00:01] Server is running, preparing for backup...
+[2025-08-31 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-31 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-31 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-31 03:00:06] Creating backup: minecraft_backup_20250831_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-08-31 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-31 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-08-31 03:00:08] Backup completed successfully: minecraft_backup_20250831_030001.tar.gz (17M)
+[2025-08-31 03:00:08] Cleaning up backups older than 14 days...
+[2025-08-31 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-08-31 03:00:08] Backup process finished.
+[2025-09-01 03:00:01] Starting backup process...
+[2025-09-01 03:00:01] Server is running, preparing for backup...
+[2025-09-01 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-01 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-01 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-01 03:00:06] Creating backup: minecraft_backup_20250901_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-01 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-01 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-01 03:00:08] Backup completed successfully: minecraft_backup_20250901_030001.tar.gz (17M)
+[2025-09-01 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-01 03:00:08] Cleanup complete. 15 backup(s) remaining.
+[2025-09-01 03:00:08] Backup process finished.
+[2025-09-02 03:00:01] Starting backup process...
+[2025-09-02 03:00:01] Server is running, preparing for backup...
+[2025-09-02 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-02 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-02 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-02 03:00:06] Creating backup: minecraft_backup_20250902_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-02 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-02 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-02 03:00:09] Backup completed successfully: minecraft_backup_20250902_030001.tar.gz (17M)
+[2025-09-02 03:00:09] Cleaning up backups older than 14 days...
+[2025-09-02 03:00:09] Cleanup complete. 15 backup(s) remaining.
+[2025-09-02 03:00:09] Backup process finished.
+[2025-09-03 03:00:01] Starting backup process...
+[2025-09-03 03:00:01] Server is running, preparing for backup...
+[2025-09-03 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-03 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-03 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-03 03:00:06] Creating backup: minecraft_backup_20250903_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-03 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-03 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-03 03:00:09] Backup completed successfully: minecraft_backup_20250903_030001.tar.gz (17M)
+[2025-09-03 03:00:09] Cleaning up backups older than 14 days...
+[2025-09-03 03:00:09] Cleanup complete. 15 backup(s) remaining.
+[2025-09-03 03:00:09] Backup process finished.
+[2025-09-04 03:00:01] Starting backup process...
+[2025-09-04 03:00:01] Server is running, preparing for backup...
+[2025-09-04 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-04 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-04 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-04 03:00:06] Creating backup: minecraft_backup_20250904_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-04 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-04 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-04 03:00:09] Backup completed successfully: minecraft_backup_20250904_030001.tar.gz (17M)
+[2025-09-04 03:00:09] Cleaning up backups older than 14 days...
+[2025-09-04 03:00:09] Cleanup complete. 15 backup(s) remaining.
+[2025-09-04 03:00:09] Backup process finished.
+[2025-09-05 03:00:01] Starting backup process...
+[2025-09-05 03:00:01] Server is running, preparing for backup...
+[2025-09-05 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-05 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-05 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-05 03:00:06] Creating backup: minecraft_backup_20250905_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-05 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-05 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-05 03:00:08] Backup completed successfully: minecraft_backup_20250905_030001.tar.gz (17M)
+[2025-09-05 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-05 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-05 03:00:08] Backup process finished.
+[2025-09-06 03:00:01] Starting backup process...
+[2025-09-06 03:00:01] Server is running, preparing for backup...
+[2025-09-06 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-06 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-06 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-06 03:00:06] Creating backup: minecraft_backup_20250906_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-06 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-06 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-06 03:00:08] Backup completed successfully: minecraft_backup_20250906_030001.tar.gz (17M)
+[2025-09-06 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-06 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-06 03:00:08] Backup process finished.
+[2025-09-07 03:00:00] Starting backup process...
+[2025-09-07 03:00:01] Server is running, preparing for backup...
+[2025-09-07 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-07 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-07 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-07 03:00:06] Creating backup: minecraft_backup_20250907_030000
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-07 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-07 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-07 03:00:08] Backup completed successfully: minecraft_backup_20250907_030000.tar.gz (17M)
+[2025-09-07 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-07 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-07 03:00:08] Backup process finished.
+[2025-09-08 03:00:01] Starting backup process...
+[2025-09-08 03:00:01] Server is running, preparing for backup...
+[2025-09-08 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-08 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-08 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-08 03:00:06] Creating backup: minecraft_backup_20250908_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-08 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-08 03:00:09] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-08 03:00:09] Backup completed successfully: minecraft_backup_20250908_030001.tar.gz (17M)
+[2025-09-08 03:00:09] Cleaning up backups older than 14 days...
+[2025-09-08 03:00:09] Cleanup complete. 16 backup(s) remaining.
+[2025-09-08 03:00:09] Backup process finished.
+[2025-09-09 03:00:01] Starting backup process...
+[2025-09-09 03:00:01] Server is running, preparing for backup...
+[2025-09-09 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-09 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-09 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-09 03:00:06] Creating backup: minecraft_backup_20250909_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-09 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-09 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-09 03:00:08] Backup completed successfully: minecraft_backup_20250909_030001.tar.gz (17M)
+[2025-09-09 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-09 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-09 03:00:08] Backup process finished.
+[2025-09-10 03:00:01] Starting backup process...
+[2025-09-10 03:00:01] Server is running, preparing for backup...
+[2025-09-10 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-10 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-10 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-10 03:00:06] Creating backup: minecraft_backup_20250910_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-10 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-10 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-10 03:00:08] Backup completed successfully: minecraft_backup_20250910_030001.tar.gz (17M)
+[2025-09-10 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-10 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-10 03:00:08] Backup process finished.
+[2025-09-11 03:00:01] Starting backup process...
+[2025-09-11 03:00:01] Server is running, preparing for backup...
+[2025-09-11 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-11 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-11 03:00:01] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-11 03:00:06] Creating backup: minecraft_backup_20250911_030001
+tar: world_nether: Cannot stat: No such file or directory
+tar: world_the_end: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+[2025-09-11 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-11 03:00:08] Warning: RCON command failed, server might not be running with RCON enabled
+[2025-09-11 03:00:08] Backup completed successfully: minecraft_backup_20250911_030001.tar.gz (17M)
+[2025-09-11 03:00:08] Cleaning up backups older than 14 days...
+[2025-09-11 03:00:08] Cleanup complete. 16 backup(s) remaining.
+[2025-09-11 03:00:08] Backup process finished.

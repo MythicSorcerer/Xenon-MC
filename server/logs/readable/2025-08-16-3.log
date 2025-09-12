@@ -1,0 +1,31 @@
+[20:50:07] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.9
+[20:50:08] [main/WARN]: Mod resolution failed
+[20:50:08] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE banhammer 0.14.1+1.21.8 {depends fabric @ [*]}, ROOT_FORCELOAD_SINGLE banhammer 0.14.1+1.21.8]
+[20:50:08] [main/INFO]: Reason: [HARD_DEP banhammer 0.14.1+1.21.8 {depends fabric @ [*]}, HARD_DEP fabric-essentials 1.4.4+1.21.6-rc1 {depends fabric-api @ [*]}, HARD_DEP invview 1.4.17-1.21.6+ {depends fabric @ [*]}, HARD_DEP fabric-api-base 0.4.64+9ec45cd8f3 {depends fabricloader @ [>=0.16.13]}, HARD_DEP fabric-command-api-v2 2.2.53+946bf4c3f3 {depends fabricloader @ [>=0.16.13]}, HARD_DEP fabric-lifecycle-events-v1 2.6.3+db4dfd85f3 {depends fabricloader @ [>=0.16.13]}, HARD_DEP fabric-networking-api-v1 5.0.1+946bf4c3f3 {depends fabricloader @ [>=0.16.13]}, HARD_DEP nochatreports 1.21.7-v2.14.0 {depends fabricloader @ [>=0.16.14]}, HARD_DEP nochatreports 1.21.7-v2.14.0 {depends fabric-api @ [*]}, HARD_DEP servershop 1.5.8 {depends fabricloader @ [>=0.16.14]}, HARD_DEP servershop 1.5.8 {depends fabric @ [*]}, HARD_DEP fabric-events-interaction-v0 4.0.23+946bf4c3f3 {depends fabricloader @ [>=0.16.13]}]
+[20:50:08] [main/INFO]: Fix: add [add:fabric 1 ([(-∞,∞)]), add:fabric-api 1 ([(-∞,∞)])], remove [], replace [[fabricloader 0.16.9] -> add:fabricloader 0.16.14 ([[0.16.14,∞)])]
+[20:50:08] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install fabric, any version.
+	 - Install fabric-api, any version.
+	 - Replace mod 'Fabric Loader' (fabricloader) 0.16.9 with version 0.16.14 or later.
+More details:
+	 - Mod 'BanHammer' (banhammer) 0.14.1+1.21.8 requires any version of fabric, which is missing!
+	 - Mod 'FabricEssentials' (fabric-essentials) 1.4.4+1.21.6-rc1 requires any version of fabric-api, which is missing!
+	 - Mod 'InvView' (invview) 1.4.17-1.21.6+ requires any version of fabric, which is missing!
+	 - Mod 'Fabric API Base' (fabric-api-base) 0.4.64+9ec45cd8f3 requires version 0.16.13 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'Fabric Command API (v2)' (fabric-command-api-v2) 2.2.53+946bf4c3f3 requires version 0.16.13 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'Fabric Lifecycle Events (v1)' (fabric-lifecycle-events-v1) 2.6.3+db4dfd85f3 requires version 0.16.13 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'Fabric Networking API (v1)' (fabric-networking-api-v1) 5.0.1+946bf4c3f3 requires version 0.16.13 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'No Chat Reports' (nochatreports) 1.21.7-v2.14.0 requires version 0.16.14 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'No Chat Reports' (nochatreports) 1.21.7-v2.14.0 requires any version of fabric-api, which is missing!
+	 - Mod 'ServerShop' (servershop) 1.5.8 requires version 0.16.14 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	 - Mod 'ServerShop' (servershop) 1.5.8 requires any version of fabric, which is missing!
+	 - Mod 'Fabric Events Interaction (v0)' (fabric-events-interaction-v0) 4.0.23+946bf4c3f3 requires version 0.16.13 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.9!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.0]

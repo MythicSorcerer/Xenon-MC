@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for file in *.log; do
+  echo -e "\033[1;34m===== $file =====\033[0m"
+  cat "$file"
+  echo
+done
+

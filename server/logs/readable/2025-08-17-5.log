@@ -1,0 +1,147 @@
+[18:51:50] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[18:51:51] [main/INFO]: Loading 70 mods:
+	- banhammer 0.14.1+1.21.8
+	   |-- com_mysql_mysql-connector-j 9.3.0
+	   |-- org_postgresql_postgresql 42.7.7
+	   \-- org_xerial_sqlite-jdbc 3.50.3.0
+	- disconnect-packet-fix 2.0.0
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-essentials 1.4.4+1.21.6-rc1
+	   |-- common-protection-api 1.0.0
+	   |-- message-api 0.3.2+1.21.5
+	   \-- player-data-api 0.8.0+1.21.6
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- invview 1.4.17-1.21.6+
+	- java 23
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
+	- minecraft 1.21.8
+	- nochatreports 1.21.7-v2.14.0
+	- servershop 1.5.8
+	   |-- placeholder-api 2.7.1+1.21.6
+	   |-- polymer-autohost 0.13.7+1.21.8
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.13.7+1.21.8
+	   |-- polymer-core 0.13.7+1.21.8
+	   |    |-- polymer-networking 0.13.7+1.21.8
+	   |    |    \-- polymer-common 0.13.7+1.21.8
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.13.7+1.21.8
+	   |-- polymer-resource-pack 0.13.7+1.21.8
+	   |    \-- polymer-common 0.13.7+1.21.8
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-virtual-entity 0.13.7+1.21.8
+	   |    \-- polymer-common 0.13.7+1.21.8
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- server_translations_api 2.5.1+1.21.5
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   \-- sgui 1.10.2+1.21.8
+	- terralith 2.5.11
+	- vanilla-permissions 0.2.11+1.21.7
+	   \-- fabric-permissions-api-v0 0.4.1
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+[18:51:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:51:52] [main/INFO]: Compatibility level set to JAVA_17
+[18:51:52] [main/INFO]: Compatibility level set to JAVA_21
+[18:51:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[18:52:15] [main/INFO]: Disconnect Packet Fix has started.
+[18:52:16] [main/INFO]: Loading essentials config
+[18:52:18] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@38b9e2cd]
+[18:52:18] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[18:52:18] [main/INFO]: Loading configuration...
+[18:52:19] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:52:25] [Worker-Main-3/INFO]: Loaded Fabric Permissions
+[18:52:25] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[18:52:26] [main/INFO]: Loaded 1413 recipes
+[18:52:27] [main/INFO]: Loaded 1521 advancements
+[18:52:27] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 translation keys
+[18:52:27] [main/INFO]: Applied 0 biome modifications to 0 of 160 new biomes in 7.311 ms
+[18:52:28] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
+[18:52:28] [Server thread/INFO]:         __    
+[18:52:28] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[18:52:28] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
+[18:52:28] [Server thread/INFO]: 
+[18:52:28] [Server thread/INFO]: Loading storage provider... [H2]
+[18:52:29] [Server thread/INFO]: Loading internal permission managers...
+[18:52:29] [Server thread/INFO]: Performing initial data load...
+[18:52:29] [Server thread/INFO]: Successfully enabled. (took 1441ms)
+[18:52:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:52:29] [Server thread/INFO]: Loading properties
+[18:52:29] [Server thread/INFO]: Default game type: SURVIVAL
+[18:52:29] [Server thread/INFO]: Generating keypair
+[18:52:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:52:30] [Server thread/INFO]: Using epoll channel type
+[18:52:30] [Server thread/INFO]: Preparing level "world"
+[18:52:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:39] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:52:42] [Server thread/INFO]: Time elapsed: 10307 ms
+[18:52:42] [Server thread/INFO]: Done (11.641s)! For help, type "help"
+[18:52:42] [Server thread/INFO]: Starting GS4 status listener
+[18:52:42] [Server thread/INFO]: Thread Query Listener started
+[18:52:42] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[18:52:42] [Server thread/INFO]: Starting remote control listener
+[18:52:42] [Server thread/INFO]: Thread RCON Listener started
+[18:52:42] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[18:53:46] [Server thread/INFO]: Server empty for 60 seconds, pausing

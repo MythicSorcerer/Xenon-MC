@@ -1,0 +1,53 @@
+[00:00:47] [Server thread/INFO]: /176.65.148.234:62387 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[00:16:18] [Server thread/INFO]: /176.65.134.5:62030 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[06:08:55] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[07:29:28] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[07:42:51] [Server thread/INFO]: MCScans (/45.148.10.134:50624) lost connection: Disconnected
+[09:51:42] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[09:54:29] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[10:54:01] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[11:56:13] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[12:05:25] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[12:40:34] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[13:42:39] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[14:09:04] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[15:21:05] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[15:21:07] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[15:21:13] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[18:00:38] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[19:11:43] [User Authenticator #1/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[19:11:45] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:56358] logged in with entity id 65 at (-307.5983194943659, 88.88087455479712, -516.3631185304703)
+[19:11:45] [Server thread/INFO]: MythicSorcerer joined the game
+[19:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:12:27] [Server thread/INFO]: MythicSorcerer has made the advancement [Monster Hunter]
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/41, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/42, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/43, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/44, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/45, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/46, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/47, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/48, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/49, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/50, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/51, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/52, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.30] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/53, l='ServerLevel[world]', x=-391.30, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/54, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: Named entity class_1613['[Mythic Guard]'/55, l='ServerLevel[world]', x=-391.70, y=156.00, z=-458.70] died: [Mythic Guard] was killed
+[19:13:19] [Server thread/INFO]: [MythicSorcerer: Killed 130 entities]
+[19:15:12] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[19:15:48] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[19:15:48] [Server thread/INFO]: MythicSorcerer left the game
+[19:15:52] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[19:15:54] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[19:15:56] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[19:15:58] [Server thread/INFO]: [Rcon: Summoned new Primed TNT]
+[19:16:00] [User Authenticator #2/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[19:16:01] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:56551] logged in with entity id 1150 at (-368.9842667281439, 176.9317001763672, -418.0836719064185)
+[19:16:01] [Server thread/INFO]: MythicSorcerer joined the game
+[19:16:12] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[19:16:12] [Server thread/INFO]: MythicSorcerer left the game
+[19:17:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:28:57] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[23:19:29] [Server thread/INFO]: /45.95.147.247:61000 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (class_2915) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
