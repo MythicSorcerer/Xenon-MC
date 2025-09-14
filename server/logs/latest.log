@@ -1,2 +1,248 @@
-[05:45:40] [Server thread/INFO]: MCScans (/45.148.10.134:58542) lost connection: Disconnected
-[12:23:41] [Server thread/INFO]: [Rcon] MOOOOOO
+[10:50:57] [Server thread/INFO]: [Rcon: Summoned new Cow]
+[15:09:09] [User Authenticator #12/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[15:09:10] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:60060] logged in with entity id 1272 at (-367.52114200365213, 176.79871531626992, -424.0562864280358)
+[15:09:10] [Server thread/INFO]: MythicSorcerer joined the game
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (default)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add minecraft.command.summon true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (default)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add minecraft.command.enchant true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (default)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add minecraft.command.gamemode true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (default)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add minecraft.command.xp true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [U] (mythicsorcerer)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add * true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [U] (mythicsorcerer)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add group.owner true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (owner)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add * true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (owner)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add weight.10 true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (admin)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add * true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (admin)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add weight.8 true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add luckperms false
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add weight.6 true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add invview false
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add banhammer false
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add minecraft.command.kill false
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [G] (mod)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add * true
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [T] (progression)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add default
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [T] (progression)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add mod
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [T] (progression)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add admin
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [T] (progression)
+[15:14:37] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add owner
+[15:15:05] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [U] (mythicsorcerer)
+[15:15:05] [luckperms-command-executor/INFO]: [LP] LOG > webeditor remove * true
+[15:15:05] [luckperms-command-executor/INFO]: [LP] LOG > (MythicSorcerer) [U] (mythicsorcerer)
+[15:15:05] [luckperms-command-executor/INFO]: [LP] LOG > webeditor remove group.owner true
+[15:15:15] [Server thread/INFO]: [MythicSorcerer: Made MythicSorcerer no longer a server operator]
+[15:15:19] [Server thread/INFO]: [MythicSorcerer: Summoned new Pig]
+[15:15:45] [Server thread/INFO]: [Rcon: Made MythicSorcerer a server operator]
+[15:16:26] [Server thread/INFO]: [MythicSorcerer: Set the time to 1000]
+[15:16:32] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[15:16:51] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[15:16:51] [Server thread/INFO]: MythicSorcerer left the game
+[15:17:03] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[15:17:08] [Server thread/INFO]: [Rcon: Summoned new Warden]
+[15:17:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:21:31] [RCON Client /0:0:0:0:0:0:0:1 #7/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[15:25:50] [RCON Listener #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[15:25:52] [Server thread/INFO]: [Rcon: Summoned new Admin]
+[15:26:47] [Server thread/INFO]: [Cow] hi
+[15:26:47] [Server thread/INFO]: [Enderman] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Raw Beef] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Spider] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Pig] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Squid] hi
+[15:26:47] [Server thread/INFO]: [Squid] hi
+[15:26:47] [Server thread/INFO]: [Squid] hi
+[15:26:47] [Server thread/INFO]: [Spider] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Sculk Catalyst] hi
+[15:26:47] [Server thread/INFO]: [Experience Orb] hi
+[15:26:47] [Server thread/INFO]: [Experience Orb] hi
+[15:26:47] [Server thread/INFO]: [Experience Orb] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Squid] hi
+[15:26:47] [Server thread/INFO]: [Squid] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Creeper] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Zombie] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Spider] hi
+[15:26:47] [Server thread/INFO]: [Spider] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Bat] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Slow Kill] hi
+[15:26:47] [Server thread/INFO]: [Skeleton] hi
+[15:26:47] [Server thread/INFO]: [Warden] hi
+[15:26:47] [Server thread/INFO]: [Warden] hi
+[15:26:47] [Server thread/INFO]: [Admin] hi
+[15:30:17] [Server thread/INFO]: [Admin] hi
+[15:31:34] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
+[15:32:14] [Server thread/INFO]: [Admin: Summoned new Lightning Bolt]
